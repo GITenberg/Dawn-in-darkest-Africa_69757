@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '7304'
     url: http://www.gutenberg.org/2009/agents/7304
     wikipedia: http://en.wikipedia.org/wiki/Evelyn_Baring%2C_1st_Earl_of_Cromer
+covers:
+- cover_type: archival
+  image_path: 69757-h/images/cover.jpg
 creator:
   author:
     agent_name: Harris, John H.
     gutenberg_agent_id: '55403'
     url: http://www.gutenberg.org/2009/agents/55403
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69757#Dawn-in-darkest-Africa
 gutenberg_issued: '2023-01-09'
 identifiers:
   gutenberg: '69757'
